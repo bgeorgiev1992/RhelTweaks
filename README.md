@@ -24,7 +24,7 @@ This script automates post-installation setup for Fedora 40. It includes tasks s
 Clone this repository. Make Fedora40-PostInstall.sh executable and run.
 
 ```bash
-git clone https://github.com/bgeorgiev1992/FedoraTweaks.git](https://github.com/bgeorgiev1992/RhelTweaks.git
+git clone https://github.com/bgeorgiev1992/FedoraTweaks.git
 cd RhelTweaks
 chmod +x Rhel9-PostInstall.sh
 ./Rhel9-PostInstall.sh
