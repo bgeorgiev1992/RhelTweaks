@@ -1,7 +1,7 @@
 # Rhel Workstation 9 Post-Installation Tweaks
 
 ## Rhel9-PostInstall.sh
-This script automates post-installation setup for Fedora 40. It includes tasks such as system updates, installation of essential software, and configuration of system settings.
+This script automates post-installation setup for Rhel Workstation 9. It includes tasks such as system updates, installation of essential software, and configuration of system settings.
 
 **Features:**
 
