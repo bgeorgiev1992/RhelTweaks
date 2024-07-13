@@ -21,7 +21,7 @@ This script automates post-installation setup for Rhel Workstation 9. It include
 
 **Usage:**
 
-Clone this repository. Make Fedora40-PostInstall.sh executable and run.
+Clone this repository. Make Rhel9-PostInstall.sh executable and run.
 
 ```bash
 git clone https://github.com/bgeorgiev1992/RhelTweaks.git
